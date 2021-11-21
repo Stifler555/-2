@@ -1,0 +1,8 @@
+create database sample;
+
+use sample;
+
+create table users(
+   id INT,
+   name VARCHAR(100)
+);
